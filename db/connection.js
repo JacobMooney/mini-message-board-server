@@ -8,3 +8,8 @@ db.then(() =>{
 });
 
 module.exports = db;
+
+
+
+//For my own memory using the heroku cli
+//git push heroku master
